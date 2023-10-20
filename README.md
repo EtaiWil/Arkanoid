@@ -1,7 +1,7 @@
 # Arkanoid - block breaker 
 
 ![](images/arkanoid.gif)
-![](images/arkanoidsmall.gif)
+
 ## General Information
 
 An implementation of the nostalgic Arkanoid brick breaker game using Java. <br>

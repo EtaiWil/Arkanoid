@@ -55,7 +55,7 @@ https://github.com/EtaiWil/Arkanoid.git
 
    if you're having difficulties with the Ant installation proccess, you can click [here](https://www.youtube.com/watchv=3eaW81yYIqY&t=353s&ab_channel=xscourse) for help.
 
-<br /> 
+
 
 3. Open CMD in the cloned directory and run this command:
     ```
@@ -64,13 +64,13 @@ https://github.com/EtaiWil/Arkanoid.git
 4. if you want to run specipic level you can run the command ant run ``` -Dargs="<number>"  ``` for example  ``` ant run -Dargs="1 " ```
 
 ### Screenshots
-####level 1
+#### level 1
 ![](images/level1.png)
-####level 2
+#### level 2
 ![](images/level2.png)
-####level 3
+#### level 3
 ![](images/level3.png)
-####level 4
+#### level 4
 ![](images/level4.png)
 #### Game over
 ![](images/gameover.png)

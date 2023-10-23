@@ -91,10 +91,8 @@ https://github.com/EtaiWil/Arkanoid.git
 ## Author
 
 **Etai Wilentzik**
-
 - [Profile](https://github.com/EtaiWilentzik )
-- [Email](mailto:etaiwil2000@gmail.com?subject=Hi "Hi!")
-- [LinkedIn](https://www.linkedin.com/in/etai-wilentzik-b5a106212/ "Welcome")
+- [LinkedIn]( https://www.linkedin.com/in/etai-wilentzik/ "Welcome")
 
 ## Support 🤝
 

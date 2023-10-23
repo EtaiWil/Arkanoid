@@ -9,7 +9,7 @@ Arkanoid is a classic brick-breaking game where the player controls a paddle to 
 The goal of the game is to clear all of the bricks by breaking them.
 The player can lose the game by letting the ball fall below the bottom of the screen.
 
-This Arkanoid version is the final product of Java OOP course, which I took in the 2nd semester of my 1st year at Bar Ilan University.
+This Arkanoid version is the final product of the Java OOP course, which I took in the 2nd semester of my 1st year at Bar Ilan University.
 This project was coded as a five-part ongoing assignment.
 Instead of using Java GUI Built-In objects, I used a GUI implementation which is included in this repository.
 
@@ -34,7 +34,7 @@ The implementation includes:
 - Game Over and Victory Screens
 ## how to play 
 * Use the arrow keys to move the paddle.
- * Press 'P' to pause the game and space bar to resume it.
+ * Press 'P' to pause the game and the space bar to resume it.
 ## Setup
 ### Option 1 without Ant
 1. Clone the repository:
@@ -83,7 +83,7 @@ https://github.com/EtaiWil/Arkanoid.git
 
 
 
-## Built With
+## Built with
 
 - Java
 
@@ -92,7 +92,7 @@ https://github.com/EtaiWil/Arkanoid.git
 
 **Etai Wilentzik**
 
-- [Profile](https://github.com/EtaiWil )
+- [Profile](https://github.com/EtaiWilentzik )
 - [Email](mailto:etaiwil2000@gmail.com?subject=Hi "Hi!")
 - [LinkedIn](https://www.linkedin.com/in/etai-wilentzik-b5a106212/ "Welcome")
 
